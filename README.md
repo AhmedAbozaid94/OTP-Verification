@@ -8,7 +8,7 @@ comments are showing where you can put your email
 
 # How to get the generated password from GMAIL 
 few steps you need to follow :
-1- open your gmail account 
+1- open your gmail account /n
 2- Head to Manage your Google Account
 3- At the search bar you need to search for "Apppaswords" "But make sure your 2-Step Verification is on before this step"
 4- once you finish entering your password 
