@@ -8,10 +8,10 @@ comments are showing where you can put your email
 
 # How to get the generated password from GMAIL 
 few steps you need to follow :
-1- open your gmail account 
-2- Head to Manage your Google Account
-3- At the search bar you need to search for "Apppaswords" "But make sure your 2-Step Verification is on before this step"
-4- once you finish entering your password 
-5- at the select app section choose "other (customname)
-6- type python at the next section then GENERATE 
-7- the password shown is your generated password :))
+- open your gmail account 
+- Head to Manage your Google Account
+- At the search bar you need to search for "Apppaswords" "But make sure your 2-Step Verification is on before this step"
+- once you finish entering your password 
+- at the select app section choose "other (customname)
+- type python at the next section then GENERATE 
+- the password shown is your generated password :))
