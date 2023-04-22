@@ -6,8 +6,8 @@ OTP Verification App
 I used my own GMAIL accounts in this code to be the sender and receiver
 comments are showing where you can put your email 
 
-# How to get the generated password from GMAIL 
-few steps you need to follow :
+  How to get the generated password from GMAIL 
+- few steps you need to follow :
 - open your gmail account 
 - Head to Manage your Google Account
 - At the search bar you need to search for "Apppaswords" "But make sure your 2-Step Verification is on before this step"
