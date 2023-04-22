@@ -13,5 +13,5 @@ comments are showing where you can put your email
 - At the search bar you need to search for "Apppaswords" "But make sure your 2-Step Verification is on before this step"
 - once you finish entering your password 
 - at the select app section choose "other (customname)
-- type python at the next section then GENERATE 
+- type "python" at the next section then GENERATE 
 - the password shown is your generated password :))
